@@ -1,0 +1,14 @@
+name: jupyter-refactoring
+channels:
+  - defaults
+dependencies:
+  - black
+  - jupyterlab
+  - matplotlib
+  - mypy
+  - numpy
+  - pandas
+  - pylint
+  - pytest
+  - python=3.8
+  
