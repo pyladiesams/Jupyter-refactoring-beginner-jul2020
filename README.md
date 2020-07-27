@@ -1,31 +1,23 @@
-# Work in progress, will be updated soon
+# Work in progress, will be finished 28-07-20 (in the evening)
 
 
-# An introduction to { YOUR TOPIC } with { LIBRARY YOU USE } 
-### Level: Beginner or Advanced
-### Presentation: (where your audience can find the presentation)
+# An introduction to Refactoring in Python in Jupyter notebook
+### Level: Beginner 
 
-## Project description
-Describe why your introduction to this topic is important and what you want to teach to your audience
+## What you'll learn:
+- why refactoring is needed
+- how to refactor your Python code in Jupyter notebook
+- how to write cleaner and more efficient Python code
 
-
-## Setup:
-Set up a Python 3 environment that can run Jupyter notebooks (Jupyter or Jupyterlab) and install the following libraries:
-* ...
-
-The easiest way to do this is to install [anaconda](https://www.anaconda.com/distribution/) and install the libraries in your root environment:
-```conda install matplotlib pandas seaborn```
-
-If you already have a running (ana)conda environment, you can use `intro.yml` to set up a separate enviroment:
-```conda env create -f environment.yml```
-
-## Requirements
-* Python 3
-* ...
+## Prerequisits
+* your GitHub account
+* Linux and MacOS users - git || Windows users - [git bash](https://gitforwindows.org/)
+* [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [anaconda](https://www.anaconda.com/products/individual)
 
 ## Usage
-* Clone the repository
-* Start jupyter(lab) and navigate to the workshop folder
+* Fork this repository
+* Clone forked repository
+* 
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github}
+This workshop was set up by @pyladiesams and @EzheZhezhe

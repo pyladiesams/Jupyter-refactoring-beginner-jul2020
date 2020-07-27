@@ -1,5 +1,5 @@
 .ONESHELL:
-.PHONY: build clean jupyter
+.PHONY: build clean jupyter all
 
 SHELL=/bin/bash
 CONDA_ENV_NAME ?=jupyter-refactoring
