@@ -17,7 +17,14 @@
 ## Usage
 * Fork this repository
 * Clone forked repository
-* 
+* Navigate to the cloned repository folder via terminal and run Makefile
+```
+cd Jupyter-refactoring-beginner-jul2020 && make all
+```
+* If you finished with a workshop and want to clean everything, navigate to the main folder and run Makefile
+```
+cd Jupyter-refactoring-beginner-jul2020 && make clean
+```
 
 ## Credits
 This workshop was set up by @pyladiesams and @EzheZhezhe
