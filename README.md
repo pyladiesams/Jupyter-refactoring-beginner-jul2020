@@ -1,4 +1,4 @@
-# Work in progress, will be finished 28-07-20 (in the evening)
+# Work in progress, last exercise will be added until noon
 
 
 # An introduction to Refactoring in Python with Jupyter notebook
