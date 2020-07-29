@@ -1,6 +1,3 @@
-# Work in progress, last exercise will be added until noon
-
-
 # An introduction to Refactoring in Python with Jupyter notebook
 ### Level: Beginner 
 
@@ -25,6 +22,9 @@ cd Jupyter-refactoring-beginner-jul2020 && make all
 ```
 cd Jupyter-refactoring-beginner-jul2020 && make clean
 ```
+
+## Troubleshoot
+TODO
 
 ## Credits
 This workshop was set up by @pyladiesams and @EzheZhezhe
