@@ -37,6 +37,7 @@ jupyter lab
 * If you finished with a workshop and want to clean everything, run the following commands line by line
 ```
 jupyter kernelspec uninstall jupyter-refactoring
+conda deactivate
 conda env remove --name jupyter-refactoring
 ```
 
