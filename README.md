@@ -26,7 +26,7 @@ cd Jupyter-refactoring-beginner-jul2020 && make clean
 ```
 
 ### For Windows user
-* Open Anaconda Prompt(miniconda3), navigate to the cloned repository folder and run the following commands line by line
+* Open Anaconda Prompt, navigate to the cloned repository folder and run the following commands line by line
 ```
 cd Jupyter-refactoring-beginner-jul2020
 conda env create -f environment.yml
