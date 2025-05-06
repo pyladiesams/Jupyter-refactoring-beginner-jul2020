@@ -13,9 +13,9 @@
 
 ## Usage
 * Fork this repository
-* Clone forked repository
+* Clone the forked repository
 
-### For MacOs and Linux users
+### For macOS and Linux users
 * Navigate to the cloned repository folder via terminal and run Makefile
 ```
 cd Jupyter-refactoring-beginner-jul2020 && make all
@@ -25,7 +25,7 @@ cd Jupyter-refactoring-beginner-jul2020 && make all
 cd Jupyter-refactoring-beginner-jul2020 && make clean
 ```
 
-### For Windows user
+### For Windows users
 * Open Anaconda Prompt, navigate to the cloned repository folder and run the following commands line by line
 ```
 cd Jupyter-refactoring-beginner-jul2020
@@ -45,4 +45,4 @@ conda env remove --name jupyter-refactoring
 [Refactoring in Python with Jupyter Notebook](https://youtu.be/VHUWwwuvkLk)
 
 ## Credits
-This workshop was set up by @pyladiesams and @EzheZhezhe
+This workshop was set up by @pyladiesams and @una-gal
